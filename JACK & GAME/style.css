@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://media.istockphoto.com/photos/spotlights-scene-abstract-white-background-empty-room-studio-and-picture-id1202572816?b=1&k=20&m=1202572816&s=170667a&w=0&h=bPoE2id_Sk7VyuOoA5R5SpRezd0xEKzJHhpvoXtPM4s=) ;
+    justify-content: ;
+}
+.container-1{
+    text-align: center;
+    background-image:url(https://images.unsplash.com/photo-1662384874732-00aa52cb2522?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=700&q=60);
+    margin-left: 60px;
+    margin-top: 200PX;
+ max-width: 82%;
+ border-radius: 3px;
+ box-shadow: 4px white solid;
+ margin-top: 20px;
+ 
+ }
+    .container-1, .col-4{
+       box-shadow:  2px 2px 2px black, 0 0 25px blue, 0 0 5px darkblue; ;
+       color:#fff;
+       font-size: larger;
+       margin-top: 200px;
+
+    }
+    @media all and (max-width:500px) {
+.container-1{
+    margin-left: 40px;
+    margin-right: 0px;
+    margin-top: 200PX;
+    max-width: 72%;
+}
+        
+    }
+ #message-2{
+    color: #fff; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    border-bottom: 3px #fff solid ;
+ };
+ #jack-message{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ #butn-jack1,#butn-jack2{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    margin:20px;
+    background-color: rgb(92, 92, 62);
+    border-radius: 4px;
+    box-shadow:3px 1px 2px rgb(202, 75, 75), 0 0 25px rgb(91, 194, 60), 7px 6px 5px darkblue; ;
+ }
+  .footer{
+    text-align: start;
+    color: white;
+    margin-bottom: -50px;
+    font: 15px Georgia, 'Times New Roman', Times, serif;
+  }
+   
